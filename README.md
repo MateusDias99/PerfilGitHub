@@ -12,25 +12,25 @@
      [✔️]Django
       [✔️]C#
 
-## **_➡Projetos Destacados_**
+## **_➡Projetos Destacados_** ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
- ✔️ _HTML_  |![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)|
+ ✔️ _HTML_ 
 ~~~
 Código em Breve
 ~~~
- ✔️ _CSS_ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ ✔️ _CSS_
 ~~~
 Código em Breve
 ~~~
- ✔️ _Python_ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ ✔️ _Python_
 ~~~
 Código em Breve
 ~~~
- ✔️ _Django_ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ ✔️ _Django_ 
 ~~~
 Código em Breve
 ~~~
- ✔️ _C#_ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ ✔️ _C#_ 
 ~~~
 Código em Breve
 ~~~
