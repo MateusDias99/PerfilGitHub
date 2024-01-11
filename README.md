@@ -1,5 +1,5 @@
-# **|↘Mateus Dias↙|**
-    |-------------|
+# **|Mateus Dias|**
+
 <i>Bem-vindo ao meu perfil! Sou apaixonado por resolver problemas através da programação e estou sempre buscando aprender novas tecnologias.
 
 Às vezes, as soluções inesperadas são vistas como características em vez de erros 🤓</i>
@@ -39,6 +39,10 @@ Código em Breve
 ![Linguagem Mais Utilizada](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDias99&layout=compact&theme=dracula&hide_border=true&langs_count=1&hide=jupyter%20notebook)
 
 ## **_➡Entre em Contato_**
+
+| Nome          | Contato         |
+| ------------- | ----------------|
+| Mateus Dias   |+55(18)98824-8563|
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)
 
