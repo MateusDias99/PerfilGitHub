@@ -14,19 +14,24 @@
 
 ## **_➡Projetos Destacados_**
 
-~~~ ✔️ _HTML_
+ ✔️ _HTML_
+~~~
 Código em Breve
 ~~~
-~~~✔️ _CSS_
+ ✔️ _CSS_
+~~~
 Código em Breve
 ~~~
-~~~ ✔️ _Python_
+ ✔️ _Python_
+~~~
 Código em Breve
 ~~~
-~~~✔️ _Django_
+ ✔️ _Django_
+~~~
 Código em Breve
 ~~~
-~~~✔️ _C#_
+ ✔️ _C#_
+~~~
 Código em Breve
 ~~~
 
