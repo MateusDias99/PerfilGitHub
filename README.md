@@ -43,8 +43,6 @@ Código em Breve
 - [LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)
 
 <i>Fique à vontade para explorar meus repositórios e entrar em contato!<i> 😊
-
+<i> Obrigado<i>
 
 ![Dia a Dia!](https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif)
-
-
