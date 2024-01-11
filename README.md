@@ -4,43 +4,41 @@
 
 Às vezes, as soluções inesperadas são vistas como características em vez de erros 🤓</i>
 
+## **_➡Tecnologias usadas_**
 
+  [✔️]HTML
+   [✔️]CSS
+    [✔️]Python
+     [✔️]Django
+      [✔️]C#
 
-## **➡Tecnologias usadas**
+## **_➡Projetos Destacados_**
 
- ✔️ HTML
-  ✔️ CSS
-   ✔️ Python
-    ✔️ Django
-     ✔️ C#
-
-## **➡Projetos Destacados**
-
-~~~ ✔️ HTML
+~~~ ✔️ _HTML_
 Código em Breve
 ~~~
-~~~✔️ CSS
+~~~✔️ _CSS_
 Código em Breve
 ~~~
-~~~ ✔️ Python
+~~~ ✔️ _Python_
 Código em Breve
 ~~~
-~~~✔️ Django
+~~~✔️ _Django_
 Código em Breve
 ~~~
-~~~✔️ C#
+~~~✔️ _C#_
 Código em Breve
 ~~~
 
-## **➡Estatísticas do GitHub**
+## **_➡Estatísticas do GitHub_**
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MateusDias99&show_icons=true&count_private=true&theme=dracula&hide_border=true)
 
-## **➡Linguagem Mais Utilizada**
+## **_➡Linguagem Mais Utilizada_**
 
 ![Linguagem Mais Utilizada](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDias99&layout=compact&theme=dracula&hide_border=true&langs_count=1&hide=jupyter%20notebook)
 
-## **➡Entre em Contato**
+## **_➡Entre em Contato_**
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)
 
@@ -48,4 +46,5 @@ Código em Breve
 
 
 ![Dia a Dia!](https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif)
+
 
