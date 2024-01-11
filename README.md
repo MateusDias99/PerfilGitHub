@@ -42,9 +42,8 @@ Código em Breve
 
 | Nome          | Contato          |
 | ------------- | -----------------|
-| Mateus Dias   |+55 (18)98824-8563|
+| Mateus Dias   |[LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)     |
 
-- [LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)
 
 <i>Fique à vontade para explorar meus repositórios e entrar em contato!<i> 😊
 
