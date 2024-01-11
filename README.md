@@ -14,23 +14,23 @@
 
 ## **_➡Projetos Destacados_**
 
- ✔️ _HTML_
+ ✔️ _HTML_  |![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)|
 ~~~
 Código em Breve
 ~~~
- ✔️ _CSS_
+ ✔️ _CSS_  |![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)|
 ~~~
 Código em Breve
 ~~~
- ✔️ _Python_
+ ✔️ _Python_  |![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)|
 ~~~
 Código em Breve
 ~~~
- ✔️ _Django_
+ ✔️ _Django_ |![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)|
 ~~~
 Código em Breve
 ~~~
- ✔️ _C#_
+ ✔️ _C#_  |![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)|
 ~~~
 Código em Breve
 ~~~
