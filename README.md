@@ -1,5 +1,5 @@
-# **↘Mateus Dias↙**
-
+# **|↘Mateus Dias↙|**
+    |-------------|
 <i>Bem-vindo ao meu perfil! Sou apaixonado por resolver problemas através da programação e estou sempre buscando aprender novas tecnologias.
 
 Às vezes, as soluções inesperadas são vistas como características em vez de erros 🤓</i>
@@ -43,6 +43,5 @@ Código em Breve
 - [LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)
 
 <i>Fique à vontade para explorar meus repositórios e entrar em contato!<i> 😊
-<i> Obrigado<i>
 
 ![Dia a Dia!](https://miro.medium.com/v2/resize:fit:1000/1*dxbvVHJkUh5HagZ7HI0nFw.gif)
