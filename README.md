@@ -10,10 +10,8 @@
    [✔️]CSS
     [✔️]Python
      [✔️]Django
-      [✔️]C#
-
-## **_➡Projetos Destacados_**                                             
-
+      [✔️]C#                         
+      
  ✔️ _HTML_ 
 ~~~
 Código em Breve
