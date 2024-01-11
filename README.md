@@ -40,9 +40,9 @@ Código em Breve
 
 ## **_➡Entre em Contato_**
 
-| Nome          | Contato         |
-| ------------- | ----------------|
-| Mateus Dias   |+55(18)98824-8563|
+| Nome          | Contato          |
+| ------------- | -----------------|
+| Mateus Dias   |+55 (18)98824-8563|
 
 - [LinkedIn](https://www.linkedin.com/in/mateus-moraes-dias-429403250/)
 
