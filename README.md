@@ -70,8 +70,41 @@ while True:
 Código em Breve
 ~~~
  ✔️ _C#_ 
+ Em teste...
 ~~~
-Código em Breve
+using System.Globalization;
+using System.Net.Security;
+using System.Reflection;
+using System.Threading.Tasks.Dataflow;
+
+int contador_repeticao = 0;
+
+
+Console.WriteLine("Escreva seu nome:");
+Nome = string.Parse(Console.ReadLine());
+
+Console.WriteLine("Escreva sua idade:");
+Idade = int.Parse(Console.ReadLine());
+
+Console.WriteLine("Escreva seu Peso:");
+Peso = float.Parse(Console.ReadLine());
+
+
+while (contador_repeticao < 10){  
+
+    if (Nome == "Mateus") 
+    {
+    Console.WriteLine("Logado: " + Nome, "Com a idade de:"  + Idade,  "Com o peso de: ", + Peso);
+    ++contador_repeticao;
+    continue;
+    }
+    else
+    {
+    Console.WriteLine("Erro ao Logar vc vai receber um DDOS");   
+    } 
+
+}
+
 ~~~
 
 ## **_➡Estatísticas do GitHub_**
