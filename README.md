@@ -72,39 +72,157 @@ Código em Breve
  ✔️ _C#_ 
  Em teste...
 ~~~
-using System.Globalization;
-using System.Net.Security;
-using System.Reflection;
-using System.Threading.Tasks.Dataflow;
+using System;
 
-int contador_repeticao = 0;
-
-
-Console.WriteLine("Escreva seu nome:");
-Nome = string.Parse(Console.ReadLine());
-
-Console.WriteLine("Escreva sua idade:");
-Idade = int.Parse(Console.ReadLine());
-
-Console.WriteLine("Escreva seu Peso:");
-Peso = float.Parse(Console.ReadLine());
-
-
-while (contador_repeticao < 10){  
-
-    if (Nome == "Mateus") 
+namespace App
+{
+    internal class Program
     {
-    Console.WriteLine("Logado: " + Nome, "Com a idade de:"  + Idade,  "Com o peso de: ", + Peso);
-    ++contador_repeticao;
-    continue;
+        static void Main(string[] args)
+        {
+            // Variáveis.
+            char cafe = ('\u2615');
+            char coracao = ('\u2764');
+
+            //  Painel do Senai
+            Console.WriteLine($"║{cafe} Exercícios Senai {coracao} ║");
+
+            // Calculadora
+            Console.WriteLine("╔════════════════════════════╗");
+            Console.WriteLine("║      Calculadora          ║");
+            Console.WriteLine("╠════════════════════════════╣");
+            Console.WriteLine("║       [7] [8] [9]   [÷]    ║");
+            Console.WriteLine("║       [4] [5] [6]   [×]    ║");
+            Console.WriteLine("║       [1] [2] [3]   [-]    ║");
+            Console.WriteLine("║       [0] [.] [=]   [+]    ║");
+            Console.WriteLine("╚════════════════════════════╝");
+
+            // Entrada da decisão do usuário
+            Console.Write("Digite o número da operação que deseja realizar [1] Baskara ou [2] Operações de: (+-*/)\nDigite:");
+            double decisaoUsuario;
+            if (double.TryParse(Console.ReadLine(), out decisaoUsuario))
+            {
+                if (decisaoUsuario == 1)
+                {
+                    int loop = 0;
+
+                    while (loop < 3)
+                    {
+                        Console.WriteLine("Lembre-se de ter a fórmula de Baskara em mãos!");
+                        Console.Write($"Digite o valor  do  número  B: ");
+                        double coeficienteB;
+                        if (!double.TryParse(Console.ReadLine(), out coeficienteB))
+                        {
+                            Console.WriteLine("Valor inválido para B. Por favor, insira um número válido.");
+                            ++loop;
+                            
+                        }
+
+                        Console.Write($"Digite o valor de A: ");
+                        double coeficienteA;
+                        if (!double.TryParse(Console.ReadLine(), out coeficienteA))
+                        {
+                            Console.WriteLine($"Valor inválido para A. Por favor, insira um número válido, você tem ({3 - loop}) tentativas restantes.");
+                            ++loop;
+                            
+                        }
+
+                        Console.Write($"Digite o valor de C: ");
+                        double coeficienteC;
+                        if (!double.TryParse(Console.ReadLine(), out coeficienteC))
+                        {
+                            Console.WriteLine($"Valor inválido para C. Por favor, insira um número válido, você tem ({3 - loop}) tentativas restantes.");
+                            ++loop;
+                            
+                        }
+
+                        double delta = Math.Pow(-coeficienteB, 2) - 4 * coeficienteA * coeficienteC;
+
+                        if (delta < 0)
+                        {
+                            Console.WriteLine($"A equação de delta é menor que 0, onde o resultado de delta é  {delta}, sendo assim a operação não possui um valor real");
+                            continue;
+                        }
+                        else
+                        {
+                            double raiz1 = (-coeficienteB + Math.Sqrt(delta)) / (2 * coeficienteA);
+                            double raiz2 = (-coeficienteB - Math.Sqrt(delta)) / (2 * coeficienteA);
+
+                            Console.WriteLine($"As raízes da equação são: {raiz1} e {raiz2}");
+                        }
+
+                        Console.WriteLine("\nPressione qualquer tecla para continuar...");
+                        Console.ReadKey(true);
+                        break;
+                    }
+                }
+                else if (decisaoUsuario == 2)
+                {
+                    Console.Write("Digite o primeiro número: ");
+                    double numero1;
+                    if (!double.TryParse(Console.ReadLine(), out numero1))
+                    {
+                        Console.WriteLine("Valor inválido para o primeiro número. Por favor, insira um número válido.");
+                        return;
+                    }
+
+                    Console.Write("Digite o segundo número: ");
+                    double numero2;
+                    if (!double.TryParse(Console.ReadLine(), out numero2))
+                    {
+                        Console.WriteLine("Valor inválido para o segundo número. Por favor, insira um número válido.");
+                        return;
+                    }
+
+                    Console.Write("Digite a operação desejada (+-*/): ");
+                    char operacao = Console.ReadKey().KeyChar;
+
+                    double resultado = 0;
+
+                    switch (operacao)
+                    {
+                        case '+':
+                            resultado = numero1 + numero2;
+                            break;
+                        case '-':
+                            resultado = numero1 - numero2;
+                            break;
+                        case '*':
+                            resultado = numero1 * numero2;
+                            break;
+                        case '/':
+                            if (numero2 != 0)
+                            {
+                                resultado = numero1 / numero2;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Não é possível dividir por zero.");
+                                return;
+                            }
+                            break;
+                        default:
+                            Console.WriteLine("Operação inválida. Por favor, insira uma operação válida (+-*/).");
+                            return;
+                    }
+
+                    Console.WriteLine($"\nO resultado da operação é: {resultado}");
+                }
+                else
+                {
+                    Console.WriteLine("Opção inválida. Por favor, insira um número válido.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Opção inválida. Por favor, insira um número válido.");
+            }
+
+            Console.WriteLine("\nPressione qualquer tecla para encerrar o programa...");
+            Console.ReadKey(true);
+        }
     }
-    else
-    {
-    Console.WriteLine("Erro ao Logar vc vai receber um DDOS");   
-    } 
-
 }
-
 ~~~
 
 ## **_➡Estatísticas do GitHub_**
