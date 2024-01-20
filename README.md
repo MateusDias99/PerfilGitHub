@@ -6,8 +6,7 @@
 
 ## **_➡Tecnologias usadas_**
 
-  [✔️]HTML
-   [✔️]CSS
+   [✔️]CV2
     [✔️]Python
      [✔️]Django
       [✔️]C#  
